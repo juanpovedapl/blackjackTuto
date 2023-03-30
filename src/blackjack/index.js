@@ -1,4 +1,4 @@
-import {crearDeck, pedirCarta, valorCarta,turnoComputadora, crearCartaHTML } from './usecases/export-modules.js';
+import {crearDeck, pedirCarta, valorCarta,turnoComputadora, crearCartaHTML } from './usecases/index.js';
 /**
  * 2C = Two of Clubs
  * 2D = Two of Diamonds

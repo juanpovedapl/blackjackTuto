@@ -1,4 +1,4 @@
-import { pedirCarta,valorCarta,crearCartaHTML } from "./export-modules";
+import { pedirCarta,valorCarta,crearCartaHTML } from ".";
 /**
  *
  * @param {Number} puntosMinimos Puntos minimos que la computadora necesita para ganar
